@@ -1,0 +1,10 @@
+/* .body{ */
+    /* overflow: hidden; */
+/* } */
+
+.app_body {
+
+    display:flex;
+    /* height:100vh; */
+
+}

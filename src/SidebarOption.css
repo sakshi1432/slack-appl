@@ -1,0 +1,18 @@
+.sidebarOption {
+    display:flex;
+    align-items:center;
+    font-size:12px;
+    padding-left:2px;
+    cursor:pointer;
+    
+}
+
+.sidebarOption:hover {
+    background-color:#340e36;
+}
+
+.sidebar > hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:1px solid #49274b;
+}
